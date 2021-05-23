@@ -18,7 +18,7 @@ namespace ProjectTest.API.Controllers
         public string Get()
         {
             _logger.LogInformation("Initial Home Get");
-            return "Hello SCD Net Core 5.0 Running ... 23032021-v4 JenkinsFile AFORO255";
+            return "Hello SCD Net Core 5.0 Running ... 23052021-v4 JenkinsFile AFORO255";
         }
     }
 }
